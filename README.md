@@ -10,8 +10,6 @@ Cientista de Dados / ML Engineer com foco em sistemas de recomendação, arquite
 
 Vim do Taekwondo de alto rendimento (campeão estadual e medalhista nacional em 2014) e levo essa disciplina para a forma como encaro Ciência de Dados: foco, persistência e entrega. Migrei da Administração para a tecnologia em 2017, me formei em Sistemas de Informação, mergulhei no curso de Cientista de Dados da Data Science Academy (340h) e desde então venho construindo carreira em Big Data, ML e Cloud.
 
-Meu objetivo de longo prazo é construir minha própria empresa usando IA como motor de geração de valor.
-
 ### Áreas de atuação
 
 - Sistemas de recomendação (multi-objetivo, embeddings, co-ocorrência temporal)
