@@ -54,8 +54,15 @@ Vim do Taekwondo de alto rendimento (campeão estadual e medalhista nacional em 
   <a href="https://github.com/johndelara1">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=johndelara1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
+  <a href="https://github.com/johndelara1">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=johndelara1&theme=react&hide_border=true&background=0D1117" />
+  </a>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndelara1&show_icons=true&layout=compact&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&hide_border=true">
+  <img alt="Top Languages (DS / ML / DE)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndelara1&layout=compact&langs_count=8&hide=html,javascript,java,shell,css,scss,dockerfile,makefile,tex,vue,php&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919&hide_border=true&custom_title=Linguagens%20-%20Data%20Science%20%2F%20ML%20%2F%20Data%20Engineering">
+</p>
+
+<p align="left">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=johndelara1&theme=react-dark&hide_border=true&bg_color=0D1117&color=daf7dc&line=2A75CF&point=ffffff&area=true&area_color=2A75CF" />
 </p>
